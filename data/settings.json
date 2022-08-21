@@ -55,7 +55,7 @@
       "height": null
     }
   ],
-  "showLanguage": true,
-  "showRate": true,
+  "showLanguage": false,
+  "showRate": false,
   "mirrorList": []
 }
